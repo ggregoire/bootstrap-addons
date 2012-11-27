@@ -1,4 +1,7 @@
-Awesome addons only.
+Bootstrap Addons
+================
+
+To add an addon to the list, [open an issue](https://github.com/ggregoire/bootstrap-addons/issues).
 
 * [Bootstrap Datepicker](http://www.eyecon.ro/bootstrap-datepicker/) : A date picker for field or any other element.
 * [Bootstrap Daterangepicker](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/) : A dropdown menu from which a user can select a range of dates.
