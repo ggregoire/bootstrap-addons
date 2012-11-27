@@ -1,4 +1,4 @@
-Bootstrap-addons
-================
+Awesome addons only.
 
-List of awesome addons for Twitter Bootstrap
+[Bootstrap Modal](https://github.com/jschr/bootstrap-modal)
+[X-editable](https://github.com/vitalets/x-editable)
