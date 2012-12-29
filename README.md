@@ -9,6 +9,7 @@ To add an addon to the list, [open an issue](https://github.com/ggregoire/bootst
 * [BootStrap Timepicker](http://jdewit.github.com/bootstrap-timepicker/) : Select a time for a text input using your mouse or arrow keys.
 * [Bootstrap Togle Buttons](http://www.larentis.eu/bootstrap_toggle_buttons/) : Makes a toggle button from a checkbox input.
 * [Bootstrap Wysihtml5](http://jhollingworth.github.com/bootstrap-wysihtml5/) : Makes simple, beautiful wysiwyg editors with the help of wysihtml5.
+* [Elusive Icons](http://aristath.github.com/elusive-iconfont/)
 * [Fuel UX](http://exacttarget.github.com/fuelux/) : Additional lightweight JavaScript controls (combobox, datagrid, search, etc).
 * [jqBootstrapValidation](http://reactiveraven.github.com/jqBootstrapValidation/) : A JQuery validation plugin for bootstrap forms.
 * [Tablecloth.js](http://tableclothjs.com/) : Bootstrap tables style + popular jQuery table manipulation plugins like tablesorter.
